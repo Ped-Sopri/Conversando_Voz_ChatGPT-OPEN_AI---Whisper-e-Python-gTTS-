@@ -1,0 +1,1 @@
+# Conversando_Voz_ChatGPT-OPEN_AI---Whisper-e-Python-gTTS-
